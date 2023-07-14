@@ -15,6 +15,7 @@ Welcome to my informal algorithm design portfolio, where I try and present novel
 
 ![cie_scatter](diagrams/model2.png)
 
+<br>
+<br>
 
-
-## [Joint Image Generation with Stable Diffucions (coming soon)]
+## Joint Image Generation with Stable Diffucions (coming soon)
