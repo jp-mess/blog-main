@@ -23,3 +23,6 @@ An article on how to use a VAE and GIMP to efficiently remove complex lighting e
 ## Joint Image Generation with Stable Diffusion (coming soon)
 
 What if I want to generate a few picture of the same person, but in different scenes? This is actually very frustrating with just img2img pipelines.
+
+<br>
+<br>
