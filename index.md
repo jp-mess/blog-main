@@ -13,9 +13,13 @@ Welcome to my informal algorithm design portfolio, where I try and present novel
 
 ## [Colored Lighting Removal with VAEs](https://messy-bytes.github.io/Advanced-ML-Color-Fixes/)
 
+An article on how to use a VAE and GIMP to efficiently remove complex lighting effects (that white balance algorithms may struggle with).
+
 ![cie_scatter](diagrams/model2.png)
 
 <br>
 <br>
 
-## Joint Image Generation with Stable Diffucions (coming soon)
+## Joint Image Generation with Stable Diffusion (coming soon)
+
+What if I want to generate a few picture of the same person, but in different scenes? This is actually very frustrating with just img2img pipelines.
