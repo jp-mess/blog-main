@@ -1,6 +1,7 @@
 ---
 title: Greetings, Fellow Earthlings
 nav_title: Home
+menu: main
 ---
 
 ### [Author: John (Jack) Messerly](https://www.linkedin.com/in/jack-messerly-567b9b96/)
