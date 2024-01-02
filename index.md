@@ -1,5 +1,5 @@
 ---
-title: Algorithm Gallery Main
+title: Welcome!
 ---
 
 ### [Author: John (Jack) Messerly](https://www.linkedin.com/in/jack-messerly-567b9b96/)
