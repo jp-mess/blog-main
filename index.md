@@ -1,9 +1,11 @@
 ---
-title: Greetings, fellow earthlings
+title: Greetings, Fellow Earthlings
+nav_title: Home
 ---
 
 ### [Author: John (Jack) Messerly](https://www.linkedin.com/in/jack-messerly-567b9b96/)
 
+<br>
 
 Welcome to my informal algorithm design portfolio, where I try and present novel techniques to quirky problems I find in my day-to-day work. I focus on the problems themselves and handcrafted solutions to them, rather than writing about basic engineering techniques in an educational way (like in a Towardsdatascience article), or presenting "new research". I don't think anything here is "conference papel novel", but I hope you like it. I try to keep the solutions as practical, on-track and visual as possible.
 
