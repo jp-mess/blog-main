@@ -13,7 +13,7 @@ Welcome to my informal algorithm design portfolio, where I try and present novel
 <br>
 <br>
 
-## [Colored Lighting Removal with VAEs](https://jp-mess.github.io/Advanced-ML-Color-Fixes/)
+## [Colored Lighting Removal with VAEs](https://jp-mess.github.io/vae-color-article/)
 
 An article on how to use a VAE and GIMP to efficiently remove complex lighting effects (that white balance algorithms may struggle with).
 
@@ -22,7 +22,7 @@ An article on how to use a VAE and GIMP to efficiently remove complex lighting e
 <br>
 <br>
 
-## [Geometric Priors in Ceres](https://jp-mess.github.io/relative-geometry-writeup/)
+## [Geometric Priors in Ceres](https://jp-mess.github.io/relative-geometry-article/)
 
 How to add "geometric prior" constraints to a bundle adjuster in ceres C++, in order to design structure-from-motion around realistic simplifying assumptions.
 
