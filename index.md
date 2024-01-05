@@ -8,7 +8,7 @@ menu: main
 
 <br>
 
-Welcome to my after-hours campfire, where I try and present novel techniques to quirky problems I find in my day-to-day work. I focus on the problems themselves and handcrafted solutions to them, rather than writing about basic engineering techniques in an educational way (like in a Towardsdatascience article), or presenting "new research". I don't think anything here is "conference paper ready", but I hope you like it. I try to keep the material as practical and visual as possible, while not presenting information that is "too easy" or obvious.
+Welcome to my after-hours campfire, where I talk about strange encounters in my day-to-day work. I focus on the problems themselves and handcrafted solutions to them, rather than writing about basic engineering techniques in an educational way (like in a Towardsdatascience article), or presenting "new research". I don't think anything here is "conference paper ready", but I hope you like it. I try to keep the material as practical and visual as possible, while not presenting information that is "too easy" or obvious.
 
 <br>
 <br>
