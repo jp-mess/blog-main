@@ -8,7 +8,7 @@ menu: main
 
 <br>
 
-Welcome to my after-hours campfire, where I try to talk about engaging, tangible problems in my day-to-day work as an algorithm engineer. I focus on the problems themselves and handcrafted solutions to them, rather than writing about basic engineering techniques in an educational way (like a Towardsdatascience article), or novel research in a formal way (like a conference paper). I try to keep the material as practical and visual as possible, while not presenting information that is "too easy" or obvious.
+Welcome to my after-hours campfire, where I try to talk about engaging, tangible problems in my day-to-day work as an algorithm engineer. I focus on the problems themselves and handcrafted solutions to them, rather than writing about engineering techniques in an educational way (like a Towardsdatascience article), or novel research in a formal way (like a conference paper). I try to keep the material as practical and visual as possible, while not presenting information that is "too easy" or obvious.
 
 <br>
 <br>
