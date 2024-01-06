@@ -10,6 +10,8 @@ menu: main
 
 Welcome to my after-hours campfire, where I try to talk about engaging, tangible problems in my day-to-day work as an algorithm engineer. I focus on the problems themselves and handcrafted solutions to them, rather than writing about basic engineering concepts in an educational way (like in a towardsdatascience.com article), or hyperspecific, obtuse research in a formal way (like a in conference paper). I want these writeups to bridge that gap. I try to keep the material as practical and visual as possible, while not presenting information that is "too easy" or obvious.
 
+If you want to read my hyperspecific, obtuse conference papers, [check out my IEEE page](https://ieeexplore.ieee.org/author/37086837268).
+
 <br>
 <br>
 
