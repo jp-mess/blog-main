@@ -23,7 +23,7 @@ An article on how to use a VAE and GIMP to efficiently remove complex lighting e
 <br>
 <br>
 
-## [Geometric Priors in Ceres](https://jp-mess.github.io/relative-geometry-article/)
+## [Geometric Priors in Bundle Adjustment](https://jp-mess.github.io/relative-geometry-article/)
 
 How to add "geometric prior" constraints to a bundle adjuster in ceres C++, in order to design structure-from-motion around realistic simplifying assumptions, and reduce global estimation error.
 
