@@ -8,7 +8,7 @@ menu: main
 
 <br>
 
-Welcome to my after-hours sample work page, where I try to talk about engaging, tangible problems I encounter as an algorithm engineer. I focus on the problems themselves and handcrafted solutions to them, rather than writing about engineering concepts in an educational way (like in a towardsdatascience.com article), or research in a formal way (like in a conference paper). While not being theoretically novel, I try to present writups that are not "too easy" or obvious. I hope you like them!
+Welcome to my after-hours sample work page, where I try to talk about engaging, tangible problems I encounter as an algorithm engineer. I focus on the problems themselves and handcrafted solutions to them, rather than writing about engineering concepts in an educational way (like in a towardsdatascience.com article), or research in a formal way (like in a conference paper). I don't think anything here is "groundbreaking", but I try to present writups that are not "too easy" or obvious. I hope you like them!
 
 
 <br>
